@@ -1,5 +1,5 @@
 <?php
-
+namespace MediaWikiZhConverter;
 # MediaWiki-ZhConverter
 # Copyright (C) 2008 tszming (tszming@gmail.com)
 #
